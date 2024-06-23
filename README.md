@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amirhha1
+- 👋 Hi, I’m Amir
 - 👀 I’m interested in Marvel movies, Video games, E-Sports, Watching videos in youtube and programming
 - 🌱 I’m currently learning Python and html
 - 💞️ I’m looking to collaborate on Website disigning, Game developmentsion and Making Telegram bots
